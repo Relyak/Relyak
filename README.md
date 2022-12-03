@@ -8,5 +8,3 @@
 
 
 ![Windows](https://img.shields.io/badge/-Windows%2010%20LTSC-0078d7?style=flat-square&logo=windows&logoColor=0078d7&labelColor=1e1e1e)
-![Windows](https://img.shields.io/badge/-Windows%2011%20Pro-0078d7?style=flat-square&logo=windows%2011&logoColor=0078d7&labelColor=1e1e1e)
-![Linux](https://img.shields.io/badge/-Mint%20(Linux)-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=87CF3E&labelColor=1e1e1e)
