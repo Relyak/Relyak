@@ -1,6 +1,12 @@
 <h1 align="center" >
-     Desarrollo:
+     Junior & Software Developer
 </h1>
+<p align="center" >
+     I'm a developer, I started studying because I considered that I knew all the areas of computer science, much to my surprise, 
+     I discovered that the world of software goes beyond everything I knew, overwhelming but inspiring.
+     Well, here I am, exploring the universe of software, looking for of infinite knowledge.
+</p>
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
