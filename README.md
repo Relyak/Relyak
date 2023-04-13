@@ -38,7 +38,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![.NET](https://img.shields.io/static/v1?label=<dotnet>&message=<.NET>&color=<blueviolet>)
+![.NET](https://img.shields.io/badge/dotnet-%237F52FF.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 <div align="center" >
