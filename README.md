@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SPRING](https://img.shields.io/badge/spring-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 <h1 align="center" >
      Other:
 </h1>
@@ -40,7 +40,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-black.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![.NET](https://img.shields.io/badge/.net-%237F52FF.svg?style=for-the-badge&logo=logoColor=white)
-
+![SPRING](https://img.shields.io/badge/spring-4EA94B.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <div align="center" >
     <img src="http://images5.fanpop.com/image/photos/25000000/Toph-toph-25007104-500-309.gif">
