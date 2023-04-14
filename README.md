@@ -37,7 +37,6 @@
      Learning:
 </h1>
 ![SPRING](https://img.shields.io/badge/spring-4EA94B.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 <div align="center" >
     <img src="http://images5.fanpop.com/image/photos/25000000/Toph-toph-25007104-500-309.gif">
 </div>
