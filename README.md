@@ -12,6 +12,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SPRING](https://img.shields.io/badge/spring-4EA94B.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Openshift](https://img.shields.io/badge/Openshift-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +24,7 @@
      Other:
 </h1>
 
-![Openshift](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,11 +38,6 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-<h1 align="center" >
-     Learning:
-</h1>
-
-![SPRING](https://img.shields.io/badge/spring-4EA94B.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <div align="center" >
     <img src="http://images5.fanpop.com/image/photos/25000000/Toph-toph-25007104-500-309.gif">
